@@ -1,3 +1,3 @@
 <?php
 
-echo "<br>Welcome to the World Hi";
+echo "<br>Welcome to the Arena";
